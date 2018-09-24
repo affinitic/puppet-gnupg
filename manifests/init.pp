@@ -1,5 +1,5 @@
 class gnupg {
 
-  package { "gnupg": ensure => present }
+  #package { "gnupg": ensure => present }
 
 }
